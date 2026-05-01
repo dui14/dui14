@@ -17,6 +17,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=dui14&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=dui14&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 ---
-[![](https://komarev.com/ghpvc/?username=dui14&color=0)](https://github.com/dui14)
+![](https://count.getloli.com/get/@dui14?theme=rule_34)
