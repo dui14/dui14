@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/dui14/dui14/main/Football.gif" width="250"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dui14/dui14/main/Football.gif" width="250" style="display:inline-block; margin-right:50px;" />
+  <img src="https://raw.githubusercontent.com/dui14/dui14/main/skills.gif" width="250" style="display:inline-block;" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B+Call+me+Dui" alt="Typing SVG" /></a>
