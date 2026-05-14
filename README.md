@@ -18,7 +18,7 @@
 [![X](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://x.com/duionchain)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Dui1410)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaikhang14)
 <br>
 ![Followers](https://img.shields.io/github/followers/dui14?label=Follow%20%40dui14)
 
@@ -78,7 +78,7 @@
       <td>CI/CD</td>
       <td>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitLab_CI-181717?logo=gitlab&logoColor=orange"/>
+        <img src="https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=orange"/>
       </td>
     </tr>
     <tr>
@@ -130,5 +130,3 @@
  </div>
  
 ### Top Contributed Repo
-
----
