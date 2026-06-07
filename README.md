@@ -124,9 +124,12 @@
 
 
 ## 🏆 Trophies
+
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=dui14&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
- </div>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=dui14&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+</div>
+
  
 ### Top Contributed Repo
