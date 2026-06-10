@@ -47,8 +47,8 @@
       <td>Frameworks</td>
       <td>
         <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React_Native-20232a?logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi"/>
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
@@ -94,7 +94,7 @@
         <img src="https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/NotebookLM-FF6F00?logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Stitch-4285F4?logo=google&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -112,9 +112,9 @@
   <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=dui14&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="400"/></td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dui14&show_icons=true&theme=tokyonight&hide_border=true"/></td>
     <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dui14&theme=tokyonight&hide_border=false&layout=compact" width="420"/></td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dui14&layout=compact&theme=tokyonight&hide_border=true" width="420"/></td>
   </tr>
   </table>
   
