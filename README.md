@@ -24,7 +24,9 @@
 
 <div align="center">
   <img src="https://count.getloli.com/get/@dui14?theme=rule_34" />
-  <h3 align="center">Visitors</h3>
+  <br/>
+  <strong>Visitors</strong>
+
 </div>
 
 
