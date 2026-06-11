@@ -37,25 +37,20 @@
     <tr>
       <td>Languages</td>
       <td>
-        <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
         <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <td>Frameworks</td>
       <td>
         <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/React_Native-20232a?logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi"/>
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white"/>
       </td>
     </tr>
@@ -65,7 +60,6 @@
         <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Redis-DD0031?logo=redis&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-a08021?logo=firebase&logoColor=ffcd34"/>
       </td>
     </tr>
     <tr>
