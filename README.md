@@ -29,8 +29,35 @@
 
 </div>
 
+## Top Contributed Repo
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">
+      <a href="https://github.com/dui14/track-PNL-pro" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Track%20PNL%20Pro-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Track PNL Pro Repository" />
+      </a>
+    </td>
+    <td style="border: none; padding: 5px;">
+      <a href="https://track-pnl.duii.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/track--pnl.duii.dev-Website-238636?style=for-the-badge" alt="Track PNL Pro Website" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">
+      <a href="https://github.com/dui14/metabased" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Metabased-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Metabased Repository" />
+      </a>
+    </td>
+    <td style="border: none; padding: 5px;">
+      <a href="https://github.com/dui14/metabased" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/metabased.duii.dev-Website-238636?style=for-the-badge" alt="Metabased Website" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## 💻 Tech Stack
+## Tech Stack
 <div align="center">
   <table>
     <tr><th>Category</th> <th>Technology</th></tr>
@@ -126,6 +153,3 @@
     <img src="https://github-trophies.vercel.app/?username=dui14&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
   </a>
 </div>
-
- 
-### Top Contributed Repo
