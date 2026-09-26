@@ -134,13 +134,13 @@
   <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dui14&show_icons=true&theme=tokyonight&hide_border=true"/></td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dui14&theme=blueberry&animation=sequence"/></td>
     <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dui14&layout=compact&theme=tokyonight&hide_border=true" width="420"/></td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dui14&theme=blueberry&animation=sequence" width="420"/></td>
   </tr>
   </table>
   
-![Thai Khang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dui14&theme=github-compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dui14&theme=blueberry&animation=sequence&name=My+activity+graph)
 </div>
 
 
