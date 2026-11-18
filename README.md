@@ -20,13 +20,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaikhang14)
 <br>
 ![Followers](https://img.shields.io/github/followers/dui14?label=Follow%20%40dui14)
-
-<div align="center">
+![](https://github-visitor-counter-tau.vercel.app/api?username=dui14&displayMode=miniCounter)
+<!-- <div align="center">
   <img src="https://count.getloli.com/get/@dui14?theme=rule_34" />
   <br/>
+  
   <strong>Visitors</strong>
 
-</div>
+</div> -->
 
 ## Top Contributed Repo
 <table style="border: none; border-collapse: collapse;">
