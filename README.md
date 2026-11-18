@@ -14,12 +14,12 @@
 
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=dui14&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thaikhang1410@gmail.com) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Dui1410)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/thaikhang.luong.33)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaikhang14)
 ![Followers](https://img.shields.io/github/followers/dui14?label=Follow%20%40dui14)
-![Profile Views](https://komarev.com/ghpvc/?username=dui14&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
 <!-- <div align="center">
   <img src="https://count.getloli.com/get/@dui14?theme=rule_34" />
   <br/>
