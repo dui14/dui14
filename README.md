@@ -35,34 +35,6 @@
 
 </div> -->
 
-## Top Contributed Repo
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 5px;">
-      <a href="https://github.com/dui14/PnLens" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/PnLens%20-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="PnLens Repository" />
-      </a>
-    </td>
-    <td style="border: none; padding: 5px;">
-      <a href="https://pnlens.duii.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/pnlens.duii.dev-Website-238636?style=for-the-badge" alt="Website" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 5px;">
-      <a href="https://github.com/dui14/multi-wallet-cli" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/multi--wallet--cli-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="multi-wallet-cli Repository" />
-      </a>
-    </td>
-    <td style="border: none; padding: 5px;">
-      <a href="https://github.com/dui14/multi-wallet-cli" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Go-CLI%20Tool-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="multi-wallet-cli Tool" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## Tech Stack
 <div align="center">
   <table>
@@ -137,7 +109,35 @@
   </table>
 </div>
 
-## 📊 My Stats
+## Top Contributed Repo
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">
+      <a href="https://github.com/dui14/PnLens" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/PnLens%20-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="PnLens Repository" />
+      </a>
+    </td>
+    <td style="border: none; padding: 5px;">
+      <a href="https://pnlens.duii.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/pnlens.duii.dev-Website-238636?style=for-the-badge" alt="Website" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;">
+      <a href="https://github.com/dui14/multi-wallet-cli" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/multi--wallet--cli-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="multi-wallet-cli Repository" />
+      </a>
+    </td>
+    <td style="border: none; padding: 5px;">
+      <a href="https://github.com/dui14/multi-wallet-cli" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Go-CLI%20Tool-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="multi-wallet-cli Tool" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Stats
 <div align="center">
   <table>
   <tr>
@@ -153,7 +153,7 @@
 
 
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
