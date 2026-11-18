@@ -62,25 +62,26 @@
   <table>
     <tr><th>Category</th> <th>Technology</th></tr>
     <tr>
-      <td>Languages</td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/>
-        <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"/>
-      </td>
+    <td>Programming</td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white"/>
+    </td>
     </tr>
     <tr>
-      <td>Frameworks</td>
-      <td>
-        <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white"/>
-      </td>
-    </tr>
+    <td>Frameworks & Libraries</td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white"/>
+    </td>
+   </tr>
     <tr>
       <td>Databases</td>
       <td>
@@ -95,6 +96,7 @@
         <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white"/>
         <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"/>
+        <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -111,13 +113,12 @@
         <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/>
       </td>
     </tr>
-    <tr>
+    <tr> 
       <td>Tools</td>
       <td>
+        <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?logo=vsc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white"/>
         <img src="https://img.shields.io/badge/Claude-000000?logo=anthropic&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NotebookLM-FF6F00?logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stitch-4285F4?logo=google&logoColor=white"/>
       </td>
     </tr>
     <tr>
