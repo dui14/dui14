@@ -45,13 +45,13 @@
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 5px;">
-      <a href="https://github.com/dui14/metabased" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Metabased-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Metabased Repository" />
+      <a href="https://github.com/dui14/multi-wallet-cli" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/multi--wallet--cli-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="multi-wallet-cli Repository" />
       </a>
     </td>
     <td style="border: none; padding: 5px;">
-      <a href="https://github.com/dui14/metabased" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/metabased.duii.dev-Website-238636?style=for-the-badge" alt="Metabased Website" />
+      <a href="https://github.com/dui14/multi-wallet-cli" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Go-CLI%20Tool-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="multi-wallet-cli Tool" />
       </a>
     </td>
   </tr>
