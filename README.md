@@ -33,13 +33,13 @@
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 5px;">
-      <a href="https://github.com/dui14/track-PNL-pro" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Track%20PNL%20Pro-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="Track PNL Pro Repository" />
+      <a href="https://github.com/dui14/PnLens" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/PnLens%20-Repository-111827?style=for-the-badge&logo=github&logoColor=white" alt="PnLens Repository" />
       </a>
     </td>
     <td style="border: none; padding: 5px;">
-      <a href="https://track-pnl.duii.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/track--pnl.duii.dev-Website-238636?style=for-the-badge" alt="Track PNL Pro Website" />
+      <a href="https://pnlens.duii.dev" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/pnlens.duii.dev-Website-238636?style=for-the-badge" alt="Website" />
       </a>
     </td>
   </tr>
