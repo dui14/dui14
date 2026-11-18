@@ -13,13 +13,20 @@
 <p align="center">A financial market analyst by night 🌙</p> -->
 
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Profile Views](https://komarev.com/ghpvc/?username=dui14&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thaikhang1410@gmail.com) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Dui1410)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/thaikhang.luong.33)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaikhang14)
-![Followers](https://img.shields.io/github/followers/dui14?label=Follow%20%40dui14)
+<div align="center">
+
+<img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status" />
+<img src="https://komarev.com/ghpvc/?username=dui14&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+<br>
+
+<a href="mailto:thaikhang1410@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/Dui1410" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://facebook.com/thaikhang.luong.33" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://linkedin.com/in/thaikhang14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/github/followers/dui14?label=Follow%20%40dui14" alt="Followers" />
+
+</div>
 <!-- <div align="center">
   <img src="https://count.getloli.com/get/@dui14?theme=rule_34" />
   <br/>
