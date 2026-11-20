@@ -26,16 +26,7 @@
 <a href="https://linkedin.com/in/thaikhang14" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/github/followers/dui14?label=Follow%20%40dui14" alt="Followers" />
 
-</div>
-<!-- <div align="center">
-  <img src="https://count.getloli.com/get/@dui14?theme=rule_34" />
-  <br/>
-  
-  <strong>Visitors</strong>
 
-</div> -->
-
-## Tech Stack
 <div align="center">
   <table>
     <tr><th>Category</th> <th>Technology</th></tr>
@@ -137,7 +128,6 @@
   </tr>
 </table>
 
-## Stats
 <div align="center">
   <table>
   <tr>
@@ -151,9 +141,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dui14&theme=blueberry&animation=sequence&name=My+activity+graph)
 </div>
 
-
-
-## Trophies
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
