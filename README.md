@@ -128,6 +128,8 @@
   </tr>
 </table>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dui14&theme=blueberry&animation=sequence&name=My+activity+graph)
+
 <div align="center">
   <table>
   <tr>
@@ -137,8 +139,6 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dui14&theme=blueberry&animation=sequence" width="420"/></td>
   </tr>
   </table>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dui14&theme=blueberry&animation=sequence&name=My+activity+graph)
 </div>
 
 
